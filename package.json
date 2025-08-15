@@ -2,7 +2,7 @@
   "name": "crm-webcademy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://macksprevention.github.io/crm-build",
+  "homepage": "https://macksprevention.github.io",
   "dependencies": {
     "@testing-library/dom": "10.4.1",
     "@testing-library/jest-dom": "6.6.4",
