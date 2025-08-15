@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crm-build/static/css/main.5e11c9c5.css",
+    "main.js": "/crm-build/static/js/main.ba726393.js",
+    "static/media/avatar-128.jpg": "/crm-build/static/media/avatar-128.b9094e3a3cd1f186c520.jpg",
+    "index.html": "/crm-build/index.html",
+    "main.5e11c9c5.css.map": "/crm-build/static/css/main.5e11c9c5.css.map",
+    "main.ba726393.js.map": "/crm-build/static/js/main.ba726393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e11c9c5.css",
+    "static/js/main.ba726393.js"
+  ]
+}
